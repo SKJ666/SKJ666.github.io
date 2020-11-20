@@ -18,4 +18,10 @@ My second task that I wanted to achieve was design a business card, because my f
 ![alt text](https://github.com/SKJ666/Digital-Creativity/blob/main/Business%20Card.png?raw=true)
 As you can see it is just a black text on a white canvas, but font, font make whole work here. Font and correct position of content makes this business card looks aesthetic and clean without any colours or shapes.
 
-![alt text](https://github.com/SKJ666/Digital-Creativity/blob/main/biglog22.png?raw=true)
+
+**Inspiration and ideas** 
+
+When I was browsing the web, I found many great and creative logos with so many different styles and ideas. I was even checking trending logos in the current year and when I am looking on my sketches then I can see that I was doing them in a “Letter Illusions” style where my letter were made in a different and various way. As you can see there this sketch might looks like it came from an arcade game or some kind of poor design process. Of course, there is a lot of bad designs which just looks bad or be poorly sketched it forced me to continue looking for inspiration and finding a new idea. 
+One of my idea was using a Scandinavian rune as an inspiration for my logo and I tried to design it and as you can see there, I tried to sketch it few times. But it was this same problem as with idea before it looked poor and just boring. 
+
+![alt text](https://github.com/SKJ666/Digital-Creativity/blob/main/christmas%20logo%20sketch.png?raw=true)
